@@ -289,7 +289,7 @@ Through this project I gained hands-on experience with:
 
 **Rishav Kumar**
 
-LinkedIn: *([Add your LinkedIn profile link](http://www.linkedin.com/in/rishavkumar33))*
+LinkedIn: *(http://www.linkedin.com/in/rishavkumar33)*
 
 GitHub: *(https://github.com/rishavkumar3333)*
 
