@@ -10,8 +10,6 @@ The solution ingests raw customer data, performs data cleaning and transformatio
 
 ## 🏗️ Architecture
 
-![Architecture](architecture.png)
-
 ```
                 Raw CSV Files
                      │
@@ -67,7 +65,6 @@ Microsoft-Fabric-Customer360
 │   ├── semantic_model.png
 │   └── dashboard.png
 │
-├── architecture.png
 └── sample_data
 ```
 
@@ -190,7 +187,7 @@ The interactive dashboard provides insights including:
 
 Dashboard Screenshot
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
@@ -222,7 +219,7 @@ Features
 
 Pipeline Screenshot
 
-![Pipeline](screenshots/pipeline.png)
+![Pipeline](Screenshots/pipeline.png)
 
 ---
 
@@ -260,31 +257,31 @@ Through this project I gained hands-on experience with:
 
 ## Bronze Lakehouse
 
-![Bronze](screenshots/bronze_lakehouse.png)
+![Bronze](Screenshots/bronze_lakehouse.png)
 
 ---
 
 ## Silver Lakehouse
 
-![Silver](screenshots/silver_lakehouse.png)
+![Silver](Screenshots/silver_lakehouse.png)
 
 ---
 
 ## Gold Lakehouse
 
-![Gold](screenshots/gold_lakehouse.png)
+![Gold](Screenshots/gold_lakehouse.png)
 
 ---
 
 ## Semantic Model
 
-![Semantic Model](screenshots/semantic_model.png)
+![Semantic Model](Screenshots/semantic_model.png)
 
 ---
 
 ## Power BI Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
