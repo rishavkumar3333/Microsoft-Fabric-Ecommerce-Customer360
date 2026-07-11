@@ -187,7 +187,7 @@ The interactive dashboard provides insights including:
 
 Dashboard Screenshot
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
@@ -219,7 +219,7 @@ Features
 
 Pipeline Screenshot
 
-![Pipeline](Screenshots/pipeline.png)
+![Pipeline](Screenshots/Pipeline.png)
 
 ---
 
@@ -257,31 +257,31 @@ Through this project I gained hands-on experience with:
 
 ## Bronze Lakehouse
 
-![Bronze](Screenshots/bronze_lakehouse.png)
+![Bronze](Screenshots/Bronze.png)
 
 ---
 
 ## Silver Lakehouse
 
-![Silver](Screenshots/silver_lakehouse.png)
+![Silver](Screenshots/Silver.png)
 
 ---
 
 ## Gold Lakehouse
 
-![Gold](Screenshots/gold_lakehouse.png)
+![Gold](Screenshots/Gold.png)
 
 ---
 
 ## Semantic Model
 
-![Semantic Model](Screenshots/semantic_model.png)
+![Semantic Model](Screenshots/Semantic_Model.png)
 
 ---
 
 ## Power BI Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
@@ -289,9 +289,9 @@ Through this project I gained hands-on experience with:
 
 **Rishav Kumar**
 
-LinkedIn: *(Add your LinkedIn profile link)*
+LinkedIn: *([Add your LinkedIn profile link](http://www.linkedin.com/in/rishavkumar33))*
 
-GitHub: *(Add your GitHub profile link)*
+GitHub: *(https://github.com/rishavkumar3333)*
 
 ---
 
